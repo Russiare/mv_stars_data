@@ -1,0 +1,29 @@
+{
+    "drobovic":
+    {
+        "count":10,
+        "razbros":20,
+        "distance":2,
+        "damage":8,
+        "spawn_time":0.0,
+        "reload":3
+    },
+    "sniper":
+    {
+        "count":1,
+        "razbros":0,
+        "distance":-1,
+        "damage":25,
+        "spawn_time":0.0,
+        "reload":2
+    },
+    "pistol_pulemet":
+    {
+        "count":5,
+        "razbros":1,
+        "distance":7,
+        "damage":4,
+        "spawn_time":0.05,
+        "reload":1
+    }
+}
