@@ -4,7 +4,7 @@
         "count":10,
         "razbros":20,
         "distance":0.2,
-        "damage":8,
+        "damage":5,
         "spawn_time":0.0,
         "reload":3
     },
