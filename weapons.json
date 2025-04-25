@@ -3,7 +3,7 @@
     {
         "count":10,
         "razbros":20,
-        "distance":2,
+        "distance":0.2,
         "damage":8,
         "spawn_time":0.0,
         "reload":3
@@ -21,7 +21,7 @@
     {
         "count":5,
         "razbros":1,
-        "distance":7,
+        "distance":0.75,
         "damage":4,
         "spawn_time":0.05,
         "reload":1
