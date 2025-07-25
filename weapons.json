@@ -12,7 +12,7 @@
     {
         "count":1,
         "razbros":0,
-        "distance":-1,
+        "distance":100000,
         "damage":25,
         "spawn_time":0.0,
         "reload":2
